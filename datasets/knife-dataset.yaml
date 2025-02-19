@@ -1,0 +1,8 @@
+# knife-dataset.yaml
+path: /Users/augusto.favi/Desktop/Tech Challenge 5/datasets/knife-dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['knife']
